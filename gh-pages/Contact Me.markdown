@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Contact Me"
 permalink: /contact/
+---
 
 # Contact Me
 **Andalib Ashrafi**
